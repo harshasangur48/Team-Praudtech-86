@@ -37,8 +37,6 @@ It provides an interactive dashboard, issue detection, charts, AI-powered fix su
 
 ├── 086 -Praudtech.html # Main application file
 
----
-
 ├── logo.jpg # Logo used in header (optional)
 
 
