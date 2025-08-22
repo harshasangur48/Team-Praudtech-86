@@ -35,3 +35,50 @@ It provides an interactive dashboard, issue detection, charts, AI-powered fix su
 
 ## 📂 Project Structure
 
+├── 086 -Praudtech.html # Main application file
+├── logo.jpg # Logo used in header (optional)
+
+
+---
+
+## ⚙️ Installation & Usage
+
+1. Clone or download the repo.  
+2. Place all files (HTML + logo) in a single folder.  
+3. Open the `086 -Praudtech.html` file in your browser.  
+   - No server setup is required – works as a static HTML file.  
+
+---
+
+## 📖 How It Works
+
+1. Enter a **website URL** and choose the audit type (Full, Security, Performance, SEO).  
+2. Watch the **progress bar** while simulated scans run.  
+3. Review the **results dashboard** with scores and charts.  
+4. Check detailed findings and click **Fix** for AI-powered suggestions.  
+5. Save sites for quick re-audits or export reports to PDF.  
+
+---
+
+## 📊 Example Metrics Analyzed
+
+- **Security**: HTTPS, CSP, cookies, headers, XSS protection, SSL/TLS version.  
+- **Performance**: Load time, FCP, LCP, TTI, TBT, caching, unoptimized images.  
+- **SEO**: Meta description, alt text, structured data, mobile friendliness, sitemaps, robots.txt, broken links.  
+
+---
+
+## 🔮 Future Enhancements
+
+- Real API integration for live website scanning.  
+- Waterfall chart for request analysis.  
+- Advanced AI integration for automated fixes.  
+- Multi-user support with authentication.  
+
+---
+
+## 📄 License
+
+This project is open-source. You are free to use and modify it.  
+
+
