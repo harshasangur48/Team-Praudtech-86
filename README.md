@@ -80,6 +80,6 @@ It provides an interactive dashboard, issue detection, charts, AI-powered fix su
 
 ## 📄 License
 
-This project is open-source. You are free to use and modify it.  
+This project is open-source. You are free to use and modify it.  ,,,
 
 
